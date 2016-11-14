@@ -1,3 +1,4 @@
+ test
 This directory contains various tests for the basic application.
 
 Tests in `codeception` directory are developed with [Codeception PHP Testing Framework](http://codeception.com/).
